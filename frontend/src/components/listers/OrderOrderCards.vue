@@ -108,6 +108,7 @@
                 'productid': 0,
                 'qty': 0,
                 'status': '',
+                'orderDt': '2024-11-15',
             }
         },
         methods:{
